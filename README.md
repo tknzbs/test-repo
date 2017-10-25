@@ -1,2 +1,2 @@
 # test-repo
-Test repo for integration
+Test repo for integration :)
